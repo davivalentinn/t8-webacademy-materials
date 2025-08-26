@@ -14,17 +14,13 @@
 
 
 
-##### Sistema xxx x peer-to-peer:
-
-
-
 ##### Comandos comuns no git:
 
 **add <file> =>** prepara alterações em arquivos para serem incluídas no próximo commit
 
 **commit -m "msg" =>** realiza um commit com uma mensagem
 
-**clone <repo> =>** clona um repositório remoto para a máquina local 
+**clone <repo> =>** clona um repositório remoto para a máquina local
 
 **pull =>** baixa as alterações remotas e as mescla com as locais
 
@@ -69,12 +65,12 @@
 
 **Tipos comuns:**
 
-* feat → nova funcionalidade
-* fix → correção de bug
-* docs → alterações na documentação
-* style → formatação, espaços, indentação (sem alteração de código funcional)
-* refactor → refatoração de código
-* test → adição ou alteração de testes
+* feat => nova funcionalidade
+* fix => correção de bug
+* docs => alterações na documentação
+* style => formatação, espaços, indentação (sem alteração de código funcional)
+* refactor => refatoração de código
+* test => adição ou alteração de testes
 
 **<descrição> =>** breve resumo sobre o que foi modificado no commit
 
